@@ -1,11 +1,12 @@
 #Uses python3
 
+from sys import maxint
 import sys
 
 
 DISTANCE = 0
 VERTEX = 1
-INFINITY = float("inf")
+INFINITY = 10**5
 
 
 def add_edge(graph, vert1, vert2, weight):
