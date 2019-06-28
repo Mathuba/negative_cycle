@@ -1,6 +1,5 @@
 #Uses python3
 
-from sys import maxint
 import sys
 
 
